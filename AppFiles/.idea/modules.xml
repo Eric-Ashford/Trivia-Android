@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TrackMySleepQuality-Starter.iml" filepath="$PROJECT_DIR$/.idea/modules/TrackMySleepQuality-Starter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TrackMySleepQuality-Starter.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TrackMySleepQuality-Starter.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidTrivia-Starter.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidTrivia-Starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidTrivia-Starter.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidTrivia-Starter.app.iml" />
     </modules>
   </component>
 </project>

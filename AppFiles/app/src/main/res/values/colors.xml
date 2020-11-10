@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><!--
-  ~ Copyright 2019, The Android Open Source Project
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright 2018, The Android Open Source Project
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -15,12 +16,10 @@
   -->
 
 <resources>
-
-    <color name="colorPrimary">#6ab343</color>
-    <color name="colorPrimaryDark">#388310</color>
-    <color name="colorAccent">#6ab343</color>
-
-    <color name="green_color">#388310</color>
-    <color name="white_text_color">#f0f0f0</color>
-
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#7e53c5</color>
+    <color name="youWinDark">#35A571</color>
+    <color name="youWinBackground">#B7F8C9</color>
+    <color name="gameOverBackground">#f8bbd0</color>
 </resources>
